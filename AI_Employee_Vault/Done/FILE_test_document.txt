@@ -1,0 +1,8 @@
+This is a test file for the AI Employee Bronze Tier.
+
+Please process this file and let me know what actions need to be taken.
+
+Test content:
+- Item 1: Review this document
+- Item 2: Create a summary
+- Item 3: Move to Done when complete

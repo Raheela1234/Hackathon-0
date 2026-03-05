@@ -1,0 +1,249 @@
+2026-03-05 15:56:09,900 - Orchestrator - INFO - ==================================================
+2026-03-05 15:56:09,900 - Orchestrator - INFO - AI Employee Orchestrator Starting
+2026-03-05 15:56:09,900 - Orchestrator - INFO - Vault: C:\Users\shahi\Documents\GitHub\Hackathon-0\AI_Employee_Vault
+2026-03-05 15:56:09,901 - Orchestrator - INFO - Check interval: 60s
+2026-03-05 15:56:09,901 - Orchestrator - INFO - ==================================================
+2026-03-05 15:56:09,902 - Orchestrator - WARNING - Claude Code not found. Install with: npm install -g @anthropic/claude-code
+2026-03-05 15:56:09,903 - Orchestrator - WARNING - Continuing in monitoring mode only...
+2026-03-05 15:56:09,913 - Orchestrator - INFO - Dashboard updated
+2026-03-05 15:56:09,914 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 15:56:09,914 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 15:56:09,916 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 15:56:09,916 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 15:56:09,920 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 15:57:09,937 - Orchestrator - INFO - Dashboard updated
+2026-03-05 15:57:09,937 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 15:57:09,938 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 15:57:09,942 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 15:57:09,942 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 15:57:09,944 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 15:58:09,957 - Orchestrator - INFO - Dashboard updated
+2026-03-05 15:58:09,958 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 15:58:09,958 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 15:58:09,960 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 15:58:09,961 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 15:58:09,963 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 15:59:09,976 - Orchestrator - INFO - Dashboard updated
+2026-03-05 15:59:09,977 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 15:59:09,977 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 15:59:09,980 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 15:59:09,980 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 15:59:09,982 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 16:00:09,998 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:00:09,998 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 16:00:09,999 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 16:00:10,001 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 16:00:10,001 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 16:00:10,003 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 16:01:10,022 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:01:10,022 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 16:01:10,022 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 16:01:10,025 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 16:01:10,025 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 16:01:10,028 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 16:02:10,044 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:02:10,044 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 16:02:10,045 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 16:02:10,047 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 16:02:10,047 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 16:02:10,050 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 16:03:10,067 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:03:10,067 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 16:03:10,068 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 16:03:10,070 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 16:03:10,071 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 16:03:10,074 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 16:04:10,091 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:04:10,091 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 16:04:10,091 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 16:04:10,094 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 16:04:10,094 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 16:04:10,096 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 16:05:10,106 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:05:10,107 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 16:05:10,107 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 16:05:10,109 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 16:05:10,109 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 16:05:10,111 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 16:06:10,123 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:06:10,123 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 16:06:10,124 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 16:06:10,126 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 16:06:10,127 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 16:06:10,129 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 16:07:10,147 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:07:10,147 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 16:07:10,148 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 16:07:10,150 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 16:07:10,150 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 16:07:10,152 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 16:08:10,169 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:08:10,170 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 16:08:10,170 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 16:08:10,173 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 16:08:10,173 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 16:08:10,176 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 16:09:10,192 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:09:10,193 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 16:09:10,193 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 16:09:10,198 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 16:09:10,199 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 16:09:10,201 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 16:10:10,218 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:10:10,219 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 16:10:10,219 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 16:10:10,221 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 16:10:10,222 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 16:10:10,223 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 16:11:10,239 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:11:10,240 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 16:11:10,240 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 16:11:10,243 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 16:11:10,243 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 16:11:10,246 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 16:12:10,263 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:12:10,263 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 16:12:10,264 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 16:12:10,266 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 16:12:10,266 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 16:12:10,268 - Orchestrator - WARNING - Claude Code not available, skipping processing
+2026-03-05 16:12:21,919 - Orchestrator - INFO - ==================================================
+2026-03-05 16:12:21,920 - Orchestrator - INFO - AI Employee Orchestrator Starting
+2026-03-05 16:12:21,920 - Orchestrator - INFO - Vault: C:\Users\shahi\Documents\GitHub\Hackathon-0\AI_Employee_Vault
+2026-03-05 16:12:21,920 - Orchestrator - INFO - Check interval: 60s
+2026-03-05 16:12:21,920 - Orchestrator - INFO - ==================================================
+2026-03-05 16:12:21,921 - Orchestrator - WARNING - Qwen Code not found. Install and configure Qwen Code.
+2026-03-05 16:12:21,921 - Orchestrator - WARNING - Continuing in monitoring mode only...
+2026-03-05 16:12:21,932 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:12:21,932 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 16:12:21,932 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 16:12:21,935 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:12:21,935 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 16:12:21,937 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:13:21,950 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:13:21,951 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 16:13:21,951 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 16:13:21,953 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:13:21,954 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 16:13:21,955 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:14:21,969 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:14:21,969 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 16:14:21,970 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 16:14:21,973 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:14:21,974 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 16:14:21,976 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:15:21,993 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:15:21,994 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 16:15:21,994 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 16:15:21,996 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:15:21,996 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 16:15:22,000 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:16:22,015 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:16:22,015 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 16:16:22,016 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 16:16:22,018 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:16:22,018 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 16:16:22,020 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:17:22,037 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:17:22,038 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 16:17:22,038 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 16:17:22,042 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:17:22,042 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 16:17:22,045 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:18:22,065 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:18:22,065 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 16:18:22,066 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 16:18:22,068 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:18:22,068 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 16:18:22,071 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:19:22,090 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:19:22,090 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 16:19:22,090 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 16:19:22,093 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:19:22,093 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 16:19:22,095 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:20:22,109 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:20:22,110 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 16:20:22,110 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 16:20:22,113 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:20:22,114 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 16:20:22,116 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:21:22,136 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:21:22,137 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 16:21:22,138 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 16:21:22,142 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:21:22,142 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 16:21:22,144 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:22:22,162 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:22:22,163 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 16:22:22,163 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 16:22:22,166 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:22:22,166 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 16:22:22,169 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:23:22,184 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:23:22,185 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 16:23:22,185 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 16:23:22,187 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:23:22,188 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 16:23:22,190 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:24:22,208 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:24:22,209 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 16:24:22,209 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 16:24:22,212 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:24:22,212 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 16:24:22,216 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:25:22,231 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:25:22,232 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 16:25:22,232 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 16:25:22,235 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:25:22,235 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 16:25:22,237 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:26:22,256 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:26:22,257 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 16:26:22,257 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 16:26:22,260 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:26:22,260 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 16:26:22,264 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:27:22,281 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:27:22,282 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 16:27:22,282 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 16:27:22,284 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:27:22,285 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 16:27:22,287 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:28:22,305 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:28:22,306 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 16:28:22,306 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 16:28:22,309 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:28:22,310 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 16:28:22,313 - Orchestrator - WARNING - Qwen Code not available, skipping processing
+2026-03-05 16:29:21,233 - Orchestrator - INFO - Orchestrator stopped by user
+2026-03-05 16:29:27,443 - Orchestrator - INFO - ==================================================
+2026-03-05 16:29:27,444 - Orchestrator - INFO - AI Employee Orchestrator Starting
+2026-03-05 16:29:27,444 - Orchestrator - INFO - Vault: C:\Users\shahi\Documents\GitHub\Hackathon-0\AI_Employee_Vault
+2026-03-05 16:29:27,444 - Orchestrator - INFO - Check interval: 60s
+2026-03-05 16:29:27,444 - Orchestrator - INFO - ==================================================
+2026-03-05 16:29:28,650 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:29:28,650 - Orchestrator - INFO - Found 2 pending item(s)
+2026-03-05 16:29:28,651 - Orchestrator - INFO - Processing: FILE_test.md
+2026-03-05 16:29:29,851 - Orchestrator - INFO - Invoking Qwen Code...
+2026-03-05 16:29:40,291 - Orchestrator - INFO - Qwen output: I'm ready to help as your AI Employee assistant. However, I don't see a specific task file mentioned in your message.
+
+To process tasks, I can check:
+- **Inbox/** - New incoming items
+- **Needs_Action/** - Items requiring attention
+- **Pending_Approval/** - Items awaiting human approval
+
+Would you like me to:
+1. Scan these folders for pending tasks?
+2. Process a specific file you have in mind?
+
+Please let me know which approach you'd prefer....
+2026-03-05 16:29:40,296 - Orchestrator - INFO - Completed: FILE_test.md
+2026-03-05 16:29:40,297 - Orchestrator - INFO - Processing: FILE_test_document.txt
+2026-03-05 16:29:41,505 - Orchestrator - INFO - Invoking Qwen Code...
+2026-03-05 16:30:10,009 - Orchestrator - INFO - Completed: FILE_test_document.txt
+2026-03-05 16:31:10,024 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:32:10,043 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:33:10,060 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:34:10,083 - Orchestrator - INFO - Dashboard updated
+2026-03-05 16:35:10,097 - Orchestrator - INFO - Dashboard updated

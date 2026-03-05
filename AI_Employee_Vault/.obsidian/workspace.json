@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "ef7c665b6c799a04",
+    "type": "split",
+    "children": [
+      {
+        "id": "41cafaf73b3bbc58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b42e8022c1288fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c3c376bc01fce30",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8602248a5c90217",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88b5fd70f7e06713",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "20e292af9e86ecb2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cde1ecf47c8ed6c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "81a893ea3bb590cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca0ad742943745b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9a294bfb24555e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Dashboard"
+            }
+          },
+          {
+            "id": "5ac2612e301ac02e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Dashboard"
+            }
+          },
+          {
+            "id": "801806f8e7e39390",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "239f5dd4eb5da247",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4eeaba43727bf82d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dashboard.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8b42e8022c1288fa",
+  "lastOpenFiles": [
+    "Plans/PLAN_FILE_test_20260305_155609.md",
+    "Needs_Action/FILE_test_document.txt.meta.md",
+    "Done/FILE_test_document.txt",
+    "Plans/PLAN_FILE_test_document_20260305_162940.md",
+    "Done/FILE_test.md",
+    "Plans/PLAN_FILE_test_20260305_162928.md",
+    "Plans/PLAN_FILE_test_document_20260305_162822.md",
+    "Plans/PLAN_FILE_test_20260305_162822.md",
+    "Plans/PLAN_FILE_test_document_20260305_162722.md",
+    "Plans/PLAN_FILE_test_20260305_162722.md",
+    "Plans/PLAN_FILE_test_document_20260305_162622.md",
+    "Plans/PLAN_FILE_test_20260305_162622.md",
+    "Plans/PLAN_FILE_test_document_20260305_162522.md",
+    "Plans/PLAN_FILE_test_20260305_162522.md",
+    "Plans/PLAN_FILE_test_document_20260305_162422.md",
+    "Plans/PLAN_FILE_test_20260305_162422.md",
+    "Plans/PLAN_FILE_test_document_20260305_162322.md",
+    "Plans/PLAN_FILE_test_20260305_162322.md",
+    "Plans/PLAN_FILE_test_document_20260305_162222.md",
+    "Plans/PLAN_FILE_test_20260305_162222.md",
+    "Plans/PLAN_FILE_test_document_20260305_162122.md",
+    "Plans/PLAN_FILE_test_20260305_162122.md",
+    "Plans/PLAN_FILE_test_document_20260305_162022.md",
+    "Plans/PLAN_FILE_test_20260305_162022.md",
+    "Plans/PLAN_FILE_test_document_20260305_161922.md",
+    "Plans/PLAN_FILE_test_20260305_161922.md",
+    "Plans/PLAN_FILE_test_document_20260305_161822.md"
+  ]
+}

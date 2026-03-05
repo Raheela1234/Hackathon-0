@@ -1,0 +1,10 @@
+2026-03-05 15:15:31,404 - FileSystemWatcher - INFO - Starting FileSystemWatcher
+2026-03-05 15:15:31,404 - FileSystemWatcher - INFO - Vault path: C:\Users\shahi\Documents\GitHub\Hackathon-0\AI_Employee_Vault
+2026-03-05 15:15:31,404 - FileSystemWatcher - INFO - Check interval: 30s
+2026-03-05 15:15:31,421 - FileSystemWatcher - INFO - Removed original file from inbox: test_document.txt
+2026-03-05 15:15:31,421 - FileSystemWatcher - INFO - Created action file: C:\Users\shahi\Documents\GitHub\Hackathon-0\AI_Employee_Vault\Needs_Action\FILE_test_document.txt.meta.md
+2026-03-05 15:48:27,579 - FileSystemWatcher - INFO - Starting FileSystemWatcher
+2026-03-05 15:48:27,580 - FileSystemWatcher - INFO - Vault path: C:\Users\shahi\Documents\GitHub\Hackathon-0\AI_Employee_Vault
+2026-03-05 15:48:27,580 - FileSystemWatcher - INFO - Check interval: 30s
+2026-03-05 15:52:57,604 - FileSystemWatcher - INFO - Removed original file from inbox: test.md
+2026-03-05 15:52:57,604 - FileSystemWatcher - INFO - Created action file: C:\Users\shahi\Documents\GitHub\Hackathon-0\AI_Employee_Vault\Needs_Action\FILE_test.md.meta.md
