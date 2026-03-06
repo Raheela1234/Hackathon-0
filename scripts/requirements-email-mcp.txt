@@ -1,0 +1,11 @@
+# Email MCP Server Dependencies
+# Install with: pip install -r requirements-email-mcp.txt
+
+# Gmail API
+google-auth>=2.0.0
+google-auth-oauthlib>=1.0.0
+google-auth-httplib2>=0.1.0
+google-api-python-client>=2.0.0
+
+# MCP Server
+mcp>=1.0.0

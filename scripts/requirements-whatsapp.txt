@@ -1,0 +1,7 @@
+# WhatsApp Watcher Dependencies
+# Install with: pip install -r requirements-whatsapp.txt
+
+playwright>=1.40.0
+
+# After installing, run:
+# playwright install chromium

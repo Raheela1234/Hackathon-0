@@ -1,0 +1,45 @@
+2026-03-06 17:06:29,148 - GmailWatcher - INFO - Starting OAuth flow...
+2026-03-06 17:06:29,213 - google_auth_oauthlib.flow - INFO - Please visit this URL to authorize this application: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=603618384888-tbnq1p0mdfb0cp7b837tp6bt1pkbtoom.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A58447%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.readonly+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.send+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.modify&state=MCPHLZCSjjXKKr9cUrYzhMTKWvEVzC&code_challenge=Z-RoqOwvQfcYBiyPokcZazvhYAa7keBpb0oXm-GLvwA&code_challenge_method=S256&access_type=offline
+2026-03-06 17:07:18,415 - GmailWatcher - INFO - Starting OAuth flow...
+2026-03-06 17:07:18,497 - google_auth_oauthlib.flow - INFO - Please visit this URL to authorize this application: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=603618384888-tbnq1p0mdfb0cp7b837tp6bt1pkbtoom.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A62818%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.readonly+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.send+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.modify&state=jZuc6eqpapORg6OHGD3zNitAgr08ad&code_challenge=4tsqjUvxrlYD7eih8Ttg0VE_sXU39JcxGDxy2lFNHC8&code_challenge_method=S256&access_type=offline
+2026-03-06 17:17:06,915 - GmailWatcher - INFO - Starting OAuth flow...
+2026-03-06 17:17:06,977 - google_auth_oauthlib.flow - INFO - Please visit this URL to authorize this application: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=603618384888-s7takdji4s39nd9mll15vi3mqveo218r.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A56949%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.readonly+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.send+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.modify&state=Cvcohyfm8nTH6zll2aTOXxmsgFH0ld&code_challenge=FOqx2WsMX5r-5N4mZku4Uktxvhb70kCOkAPF54ttKWE&code_challenge_method=S256&access_type=offline
+2026-03-06 17:17:23,645 - google_auth_oauthlib.flow - INFO - "GET /?state=Cvcohyfm8nTH6zll2aTOXxmsgFH0ld&iss=https://accounts.google.com&code=4/0AfrIepBYaWloF1Wf41c0hljsJancsSM4ACmour8kFZSCBuYM5jwu1y7oD5fyJN6ltwopbg&scope=https://www.googleapis.com/auth/gmail.readonly%20https://www.googleapis.com/auth/gmail.send%20https://www.googleapis.com/auth/gmail.modify HTTP/1.1" 200 65
+2026-03-06 17:17:24,329 - GmailWatcher - INFO - Authentication successful, token saved
+2026-03-06 17:17:24,336 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-06 17:17:24,357 - GmailWatcher - INFO - Gmail service initialized
+2026-03-06 17:17:24,359 - GmailWatcher - INFO - Credentials path: C:\Users\shahi\Documents\GitHub\Hackathon-0\credentials.json
+2026-03-06 17:17:24,360 - GmailWatcher - INFO - Token path: C:\Users\shahi\.gmail\token.json
+2026-03-06 17:17:24,361 - GmailWatcher - INFO - Starting GmailWatcher
+2026-03-06 17:17:24,361 - GmailWatcher - INFO - Vault path: C:\Users\shahi\Documents\GitHub\Hackathon-0\AI_Employee_Vault
+2026-03-06 17:17:24,361 - GmailWatcher - INFO - Check interval: 120s
+2026-03-06 17:17:26,194 - GmailWatcher - INFO - Created action file for email from google-cloud-compliance@google.com
+2026-03-06 17:17:26,195 - GmailWatcher - INFO - Created action file: C:\Users\shahi\Documents\GitHub\Hackathon-0\AI_Employee_Vault\Needs_Action\EMAIL_19cc31076a1987ea_Reinstated__Google_Cloud_Platform_APIs_project_hac.md
+2026-03-06 17:17:26,195 - GmailWatcher - INFO - Created action file for email from Google Play <googleplay-noreply@google.com>
+2026-03-06 17:17:26,196 - GmailWatcher - INFO - Created action file: C:\Users\shahi\Documents\GitHub\Hackathon-0\AI_Employee_Vault\Needs_Action\EMAIL_19cb3070fa489e46_Your_new_privacy_settings_on_Play.md
+2026-03-06 17:17:26,196 - GmailWatcher - INFO - Created action file for email from Google <no-reply@google.com>
+2026-03-06 17:31:31,372 - GmailWatcher - INFO - Created action file for email from LinkedIn <career-interests-noreply@linkedin.com>
+2026-03-06 17:31:31,373 - GmailWatcher - INFO - Created action file: C:\Users\shahi\Documents\GitHub\Hackathon-0\AI_Employee_Vault\Needs_Action\EMAIL_19cc320514bcbc3d_You’re_now_open_to_work_-_we_can_help_you_get_noti.md
+2026-03-06 17:35:32,405 - GmailWatcher - INFO - Created action file for email from LinkedIn <security-noreply@linkedin.com>
+2026-03-06 17:35:32,405 - GmailWatcher - INFO - Created action file: C:\Users\shahi\Documents\GitHub\Hackathon-0\AI_Employee_Vault\Needs_Action\EMAIL_19cc32529fef8dd8_Raheela,_here's_your_PIN_346089.md
+2026-03-06 17:41:45,198 - GmailWatcher - INFO - Created action file for email from LinkedIn <security-noreply@linkedin.com>
+2026-03-06 17:41:45,199 - GmailWatcher - INFO - Created action file: C:\Users\shahi\Documents\GitHub\Hackathon-0\AI_Employee_Vault\Needs_Action\EMAIL_19cc329e63c420de_Raheela,_your_password_was_successfully_reset.md
+2026-03-06 17:53:31,958 - LinkedInWatcher - INFO - Session path: C:\Users\shahi\.linkedin_session
+2026-03-06 17:55:10,307 - LinkedInWatcher - INFO - Session path: C:\Users\shahi\.linkedin_session
+2026-03-06 17:55:58,188 - LinkedInWatcher - INFO - Session path: C:\Users\shahi\.linkedin_session
+2026-03-06 17:55:58,189 - LinkedInWatcher - INFO - Starting LinkedInWatcher
+2026-03-06 17:55:58,189 - LinkedInWatcher - INFO - Vault path: C:\Users\shahi\Documents\GitHub\Hackathon-0\AI_Employee_Vault
+2026-03-06 17:55:58,189 - LinkedInWatcher - INFO - Check interval: 300s
+2026-03-06 17:55:58,664 - LinkedInWatcher - ERROR - Playwright error: BrowserType.launch_persistent_context() got multiple values for argument 'user_data_dir'
+2026-03-06 17:59:10,021 - LinkedInWatcher - INFO - Session path: C:\Users\shahi\.linkedin_session
+2026-03-06 17:59:54,967 - LinkedInWatcher - INFO - Session path: C:\Users\shahi\.linkedin_session
+2026-03-06 18:00:49,890 - LinkedInWatcher - INFO - Session path: C:\Users\shahi\.linkedin_session
+2026-03-06 18:00:49,891 - LinkedInWatcher - INFO - Starting LinkedInWatcher
+2026-03-06 18:00:49,891 - LinkedInWatcher - INFO - Vault path: C:\Users\shahi\Documents\GitHub\Hackathon-0\AI_Employee_Vault
+2026-03-06 18:00:49,892 - LinkedInWatcher - INFO - Check interval: 300s
+2026-03-06 18:06:20,823 - LinkedInWatcher - INFO - Session path: C:\Users\shahi\.linkedin_session
+2026-03-06 18:06:20,824 - LinkedInWatcher - INFO - Starting LinkedInWatcher
+2026-03-06 18:06:20,824 - LinkedInWatcher - INFO - Vault path: C:\Users\shahi\Documents\GitHub\Hackathon-0\AI_Employee_Vault
+2026-03-06 18:06:20,824 - LinkedInWatcher - INFO - Check interval: 300s
+2026-03-06 18:06:43,228 - LinkedInWatcher - WARNING - LinkedIn not loaded. May need to login.
+2026-03-06 18:12:00,312 - LinkedInWatcher - WARNING - LinkedIn not loaded. May need to login.

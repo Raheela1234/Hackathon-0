@@ -1,0 +1,20 @@
+# All AI Employee Dependencies
+# Install with: pip install -r requirements-all.txt
+
+# Core dependencies (Bronze Tier)
+watchdog>=3.0.0
+
+# Gmail Watcher (Silver Tier)
+google-auth>=2.0.0
+google-auth-oauthlib>=1.0.0
+google-auth-httplib2>=0.1.0
+google-api-python-client>=2.0.0
+
+# WhatsApp Watcher (Silver Tier)
+playwright>=1.40.0
+
+# Email MCP Server (Silver Tier)
+mcp>=1.0.0
+
+# After installing, run:
+# playwright install chromium
