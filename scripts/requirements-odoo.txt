@@ -1,0 +1,6 @@
+# Odoo MCP Server Dependencies
+# Install with: pip install -r requirements-odoo.txt
+
+xmlrpc3
+requests>=2.28.0
+mcp>=1.0.0

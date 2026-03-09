@@ -1,0 +1,50 @@
+version: '3.1'
+
+services:
+  odoo:
+    image: odoo:19.0
+    container_name: ${ODOO_CONTAINER_NAME:-ai_employee_odoo}
+    restart: unless-stopped
+    ports:
+      - "${ODOO_PORT:-8069}:8069"
+    volumes:
+      - ./odoo-data:/var/lib/odoo
+      - ./odoo-config:/etc/odoo
+    environment:
+      - ODOO_ADMIN_PASSWORD=${ODOO_MASTER_PASSWORD:-admin}
+      - ODOO_DB_HOST=db
+      - ODOO_DB_PORT=5432
+      - ODOO_DB_USER=${POSTGRES_USER:-odoo}
+      - ODOO_DB_PASSWORD=${POSTGRES_PASSWORD:-odoo_password}
+      - ODOO_DB_NAME=${POSTGRES_DB:-odoo}
+    depends_on:
+      - db
+    networks:
+      - ${DOCKER_NETWORK_NAME:-odoo_network}
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8069"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+
+  db:
+    image: postgres:15
+    container_name: ${POSTGRES_CONTAINER_NAME:-ai_employee_odoo_db}
+    restart: unless-stopped
+    environment:
+      - POSTGRES_DB=${POSTGRES_DB:-odoo}
+      - POSTGRES_USER=${POSTGRES_USER:-odoo}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD:-odoo_password}
+    volumes:
+      - ./odoo-postgres:/var/lib/postgresql/data
+    networks:
+      - ${DOCKER_NETWORK_NAME:-odoo_network}
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-odoo}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+networks:
+  ${DOCKER_NETWORK_NAME:-odoo_network}:
+    driver: bridge
